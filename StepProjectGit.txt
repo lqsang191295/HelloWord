@@ -1,0 +1,19 @@
+---- Bước 1: ===> Tạo 1 Repository (kho)
+
+---- Bước 2: ===> Tạo 1 thư mục chứa Project để => Clone về 
+
+---- Bước 3: Tìm địa chỉ clone => Chọn nút "Clone or download"
+
+---- Bước 4: Tạo 1 file bất kì để đẩy lên server !!!! Trong thư mục chứa file ẩn ".git"
+
+---- Bước 5: GitBash Here => Kiểm tra project có thay đổi bằng lệnh "Git Status" => "nếu có file chưa được track(theo dõi) nó sẽ báo"
+			 => git add * (để add toàn bộ file chưa đc track vào project) =>
+
+
+
+
+
+
+
+
+
