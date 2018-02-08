@@ -24,6 +24,8 @@
 
 ---- git rm ...(tên file): remove file
 
+---- git mv (tên file) (tên mún đổi): Đổi tên file
+
 +TEST lệnh
 +
 
