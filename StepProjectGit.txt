@@ -20,7 +20,9 @@
 
 ---- git log: Lấy id của những lần update => Copy id cần backup => dùng lệnh git revert paste id rồi Enter => Bấm Esc => Shift : => q => Enter.
 
----- 
+---- git diff: Xem file thay đổi
+
+---- git rm ...(tên file): remove file
 
 +TEST lệnh
 +
