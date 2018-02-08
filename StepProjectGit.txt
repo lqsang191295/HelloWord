@@ -11,13 +11,14 @@
 
 ---- Bước 6: Lưu trữ vào Repository bằng lệnh => git commit -m"Test thu add file" => Xong để đồng bộ git vs local gõ => "git push"
 
+**** Có thể dùng lệnh: git commit -a -m "Test thu xem sao" để commit ==>> xong rồi dùng "git push" để đẩy lên Repository
 
 ===================================== Chỉnh sửa or xóa file =====================================
 
 
 ===================================== Lệnh trong git =====================================
 
----- git log: Lấy id của những lần update
+---- git log: Lấy id của những lần update => Copy id cần backup => dùng lệnh git revert paste id rồi Enter => Bấm Esc => Shift : => q => Enter.
 
 ---- 
 
