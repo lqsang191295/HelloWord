@@ -29,6 +29,16 @@
 +TEST lệnh
 +
 
+============== ERROR
+
++++++++ Updates were rejected because the tip of your current branch is behind
+
+I think you have commit in remote repository and when you pull this error happen.
+
+use this command
+
+git pull origin master --allow-unrelated-histories
+git merge origin origin/master
 
 
 
