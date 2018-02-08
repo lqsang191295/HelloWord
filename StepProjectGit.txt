@@ -9,6 +9,11 @@
 ---- Bước 5: GitBash Here => Kiểm tra project có thay đổi bằng lệnh "Git Status" => "nếu có file chưa được track(theo dõi) nó sẽ báo"
 			 => git add * (để add toàn bộ file chưa đc track vào project) =>
 
+---- Bước 6: Lưu trữ vào Repository bằng lệnh => git commit -m"Test thu add file" => Xong để đồng bộ git vs local gõ => "git push"
+
+
+===================================== Chỉnh sửa or xóa file =====================================
+
 
 
 
