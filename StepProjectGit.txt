@@ -16,11 +16,13 @@
 ===================================== Chỉnh sửa or xóa file =====================================
 
 
-===================================== Lệnh trong git =====================================
 
+<<<<<<< HEAD
 ---- git log: Lấy id của những lần update => Copy id cần backup => dùng lệnh git revert paste id rồi Enter => Bấm Esc => Shift : => q => Enter.
 
 ---- 
+=======
+>>>>>>> parent of 93fe7b9... Test thu xem sao
 
 
 
